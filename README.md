@@ -1,5 +1,6 @@
-# Hi 👋, I'm [Bilal Sharif]
+# Hi 👋, I'm Bilal Sharif
 ### A passionate Backend Developer from Pakistan 🇵🇰
+# A hidden catalyst — skilled, driven, and full of potential, just needing the spark of opportunity.
 
 - 🔭 I'm currently working on **RAG Systems with LangChain and FastAPI**
 
