@@ -1,8 +1,6 @@
 # Hi 👋, I'm [Bilal Sharif]
 ### A passionate Backend Developer from Pakistan 🇵🇰
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/225714143?v=4" /> </p>
-
 - 🔭 I'm currently working on **RAG Systems with LangChain and FastAPI**
 
 - 🌱 I'm currently learning **AWS Cloud Services and System Design**
