@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bilal Sharif
 ### A passionate Backend Developer from Pakistan 🇵🇰
 
-- 🔭 I'm currently working on **RAG Systems with LangChain and FastAPI**
+- 🔭 I'm currently working on **Building Scalable System with Django and FastAPI**
 
 - 🌱 I'm currently learning **AWS Cloud Services and System Design**
 
