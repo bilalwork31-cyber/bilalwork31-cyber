@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Bilal Sharif]
 ### A passionate Backend Developer from Pakistan 🇵🇰
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
@@ -6,8 +6,6 @@
 - 🔭 I'm currently working on **RAG Systems with LangChain and FastAPI**
 
 - 🌱 I'm currently learning **AWS Cloud Services and System Design**
-
-- 👨‍💻 All of my projects are available at **[https://yourportfolio.dev](https://yourportfolio.dev)**
 
 - 💬 Ask me about **Django, FastAPI, React, Docker, LangChain, Flutter**
 
@@ -25,9 +23,6 @@
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourhandle" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yourid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yourid" height="30" width="40" /></a>
-<a href="https://instagram.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourhandle" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages and Tools:
