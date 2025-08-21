@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Bilal Sharif]
 ### A passionate Backend Developer from Pakistan 🇵🇰
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/225714143?v=4" /> </p>
 
 - 🔭 I'm currently working on **RAG Systems with LangChain and FastAPI**
 
