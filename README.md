@@ -9,16 +9,16 @@
 
 - 💬 Ask me about **Django, FastAPI, React, Docker, LangChain, Flutter**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **bilalwork31@gmail.com**
 
 - ⚡ Fun fact **I love building everything from microcontrollers to cloud applications!**
 
 ## 📝 Recent Projects & Blog Posts
 - **AI-Powered Chat Application with RAG**
-- **Microservice Architecture with Docker & FastAPI** 
-- **Flutter Mobile App with Django Backend**
+- **Freelance Sprint CRM with FastAPI and React** 
+- **ML based Flutter Mobile App for Smart Image Management**
 - **IoT Data Collection System using Embedded Programming**
-- **Building Scalable APIs with Django REST Framework**
+- **Build Scalable APIs with Django REST Framework**
 
 ## 🌐 Connect with me:
 <p align="left">
