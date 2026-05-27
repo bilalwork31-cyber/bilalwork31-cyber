@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a1a,55:1a1a1a,100:d05549&text=Bilal%20Sharif&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Full-stack%20engineering%20for%20reliable%20products%20and%20systems&descAlignY=58&descSize=15" alt="Bilal Sharif" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2400&pause=900&color=D05549&center=true&vCenter=true&width=900&lines=Bilal+Sharif;Backend-heavy+full-stack+engineer;AI+%2B+automation+%2B+production+systems;Django+%2F+FastAPI+%2F+React+%2F+WebSockets" alt="Typing intro" />
 
 <br />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=d05549" width="72%" alt="" />
+
+<br />
+<br />
+
 <a href="https://bilalsharif.work">
-  <img src="https://img.shields.io/badge/Portfolio-bilalsharif.work-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-bilalsharif.work-d05549?style=for-the-badge&labelColor=111111" alt="Portfolio" />
 </a>
 <a href="mailto:bilalwork31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bilalwork31%40gmail.com-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-bilalwork31%40gmail.com-d05549?style=for-the-badge&labelColor=111111" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-d05549?style=for-the-badge&labelColor=1a1a1a&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-d05549?style=for-the-badge&labelColor=111111&logo=linkedin" alt="LinkedIn" />
 </a>
 
 </div>
@@ -20,28 +25,40 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-## I build the hard parts behind product software.
+## `builds that survive real users`
 
-I work across backend systems, AI workflows, automation, real-time features, dashboards, provider APIs, and deployment details.
+I build the parts of software that usually get painful once the product becomes real: backend architecture, APIs, queues, WebSockets, permissions, AI workflows, provider integrations, admin dashboards, deployment details, and the debugging work between all of them.
 
-The work I enjoy most is where the product is already complex or becoming complex: API boundaries, queues, WebSockets, permissions, AI integrations, worker pipelines, messy third-party services, performance issues, and debugging under real constraints.
-
-I care about software that is **clear to operate**, **measurable in production**, and **easier to maintain after every iteration**.
-
-</td>
-<td width="38%" valign="top">
-
-### Core Stack
+I care about systems that are:
 
 ```text
-Python        Django / DRF
-FastAPI       PostgreSQL
-Redis         Celery
-React         WebSockets
-Docker        Playwright
-OpenAI        Claude Vision
+clear to operate
+measurable in production
+fast enough to feel invisible
+simple enough to keep changing
+```
+
+</td>
+<td width="42%" valign="top">
+
+## `current operating zone`
+
+```yaml
+role: full-stack engineer
+home: Lahore, Pakistan
+focus:
+  - backend systems
+  - AI integrations
+  - automation
+  - real-time products
+  - production debugging
+open_to:
+  - remote roles
+  - local opportunities
+  - freelance builds
+  - startup work
 ```
 
 </td>
@@ -55,24 +72,24 @@ OpenAI        Claude Vision
 <table>
 <tr>
 <td align="center" width="25%">
-<strong>Backend</strong>
+<img src="https://img.shields.io/badge/01-BACKEND-d05549?style=flat-square&labelColor=1a1a1a" alt="Backend" />
 <br />
-Django, FastAPI, APIs, queues
+APIs, data models, queues
 </td>
 <td align="center" width="25%">
-<strong>AI</strong>
+<img src="https://img.shields.io/badge/02-AI-d05549?style=flat-square&labelColor=1a1a1a" alt="AI" />
 <br />
 RAG, agents, OCR, vision
 </td>
 <td align="center" width="25%">
-<strong>Realtime</strong>
+<img src="https://img.shields.io/badge/03-REALTIME-d05549?style=flat-square&labelColor=1a1a1a" alt="Realtime" />
 <br />
 WebSockets, workers, events
 </td>
 <td align="center" width="25%">
-<strong>Product</strong>
+<img src="https://img.shields.io/badge/04-PRODUCT-d05549?style=flat-square&labelColor=1a1a1a" alt="Product" />
 <br />
-React dashboards, internal tools
+Dashboards, tools, flows
 </td>
 </tr>
 </table>
@@ -81,66 +98,66 @@ React dashboards, internal tools
 
 ---
 
-## Production Work
+## `selected systems`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Chats and Inbox Systems
+### `ChatsX / inbox infrastructure`
 
 WebSocket-heavy customer inbox flows, Meta channel integration, LLM-assisted replies, RAG, operator dashboards, and real-time debugging.
 
-**Stack:** Django, Channels, Redis, React, OpenAI
+`Django Channels` `Redis` `React` `OpenAI`
 
 </td>
 <td width="50%" valign="top">
 
-### Trading Infrastructure
+### `TradeX / trading core`
 
 Multi-tenant trading flows with wallets, ledgers, order handling, liquidity logic, market data, and bot-driven operations.
 
-**Stack:** Django/DRF, PostgreSQL, Redis, workers
+`Django REST` `PostgreSQL` `Redis` `Workers`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Automation Platforms
+### `DroidFlow / automation engine`
 
 Retryable task flows, API orchestration, state recovery, Playwright automation, background jobs, and operator tooling.
 
-**Stack:** FastAPI, Python, Playwright, queues
+`FastAPI` `Python` `Playwright` `Queues`
 
 </td>
 <td width="50%" valign="top">
 
-### WhatsApp Commerce
+### `Erixa / WhatsApp commerce`
 
-Shopify-connected order flows, OCR, screenshot checks, Claude Vision review, 360dialog/WhatsApp APIs, and isolated client workflows.
+Shopify-connected order flows, OCR, screenshot checks, Claude Vision review, WhatsApp APIs, and isolated client workflows.
 
-**Stack:** FastAPI, Claude Vision, OCR, WhatsApp APIs
+`Claude Vision` `OCR` `WhatsApp APIs` `FastAPI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI Reporting Agents
+### `LadybugWorth / AI reporting`
 
 Agents that watch communication channels, extract decisions, summarize activity, create EOD reports, and flag risk signals.
 
-**Stack:** OpenAI, Slack APIs, workers, summaries
+`OpenAI` `Slack APIs` `Workers` `Summaries`
 
 </td>
 <td width="50%" valign="top">
 
-### Document and Search Pipelines
+### `Documents + search pipelines`
 
 Python-native document processing, OCR, DOCX/HTML conversion, asset search, and vector-based retrieval.
 
-**Stack:** Python, OCR, vector search, automation
+`Python` `OCR` `Vector Search` `Automation`
 
 </td>
 </tr>
@@ -148,20 +165,21 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 
 ---
 
-## Tools I Reach For
+## `toolbox`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-1a1a1a?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis)
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker)
-![Playwright](https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=playwright)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=for-the-badge&logo=openai)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux)
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,js,docker,linux,aws,nginx,git" alt="Tech stack" />
+
+<br />
+<br />
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
+![Claude Vision](https://img.shields.io/badge/Claude_Vision-111111?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright)
+![Celery](https://img.shields.io/badge/Celery-111111?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
 
 </div>
 
@@ -171,23 +189,23 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 <tr>
 <td width="50%" valign="top">
 
-## Current Focus
+## `now building`
 
-- Production architecture with Django, FastAPI, PostgreSQL, Redis, and Celery
-- Practical AI features that do useful work without making the product fragile
-- WebSockets, automation, worker pipelines, and operational reliability
+- production architecture with Django, FastAPI, PostgreSQL, Redis, and Celery
+- practical AI features that do useful work without making the product fragile
+- WebSocket systems, automation flows, worker pipelines, and reliability work
 - AWS, system design, observability, caching, and performance
 
 </td>
 <td width="50%" valign="top">
 
-## Open To
+## `good fit for`
 
-- Remote backend/full-stack roles
-- Local engineering opportunities
-- Freelance builds and consulting
-- Startup MVPs and production recovery work
-- AI integration and automation projects
+- backend-heavy full-stack roles
+- remote engineering teams
+- startup product builds
+- freelance automation and AI integrations
+- production recovery, debugging, and performance work
 
 </td>
 </tr>
@@ -197,15 +215,16 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 
 <div align="center">
 
-### If the product needs backend judgment, AI integration, automation, or someone who can move across the stack without losing the product thread:
-
-<strong>bilalwork31@gmail.com</strong>
-<br />
-<strong>https://bilalsharif.work</strong>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=9CA3AF&center=true&vCenter=true&width=850&lines=If+the+system+is+messy%2C+connected%2C+or+hard+to+debug+%E2%80%94+that+is+usually+where+I+am+useful.;Backend+judgment.+AI+integration.+Automation.+Production+focus." alt="Closing line" />
 
 <br />
+
+**bilalwork31@gmail.com**  
+**https://bilalsharif.work**
+
+<br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:d05549,100:1a1a1a" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=d05549" width="72%" alt="" />
 
 </div>
