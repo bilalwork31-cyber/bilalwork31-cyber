@@ -1,75 +1,106 @@
-# Hi 👋, I'm Bilal Sharif
-### A passionate Backend Developer from Pakistan 🇵🇰
+<div align="left">
 
-- 🔭 I'm currently working on **Building Scalable System with Django and FastAPI**
+# Bilal Sharif
 
-- 🌱 I'm currently learning **AWS Cloud Services and System Design**
+### Full-Stack Engineering for Reliable Products and Systems
 
-- 💬 Ask me about **Django, FastAPI, React, Docker, LangChain, Flutter**
+**Backend, AI, automation, real-time systems, and production-focused product work.**
 
-- 📫 How to reach me **bilalwork31@gmail.com**
+I build software for teams that need clean APIs, reliable backend architecture, AI-assisted workflows, real-time features, admin dashboards, and automation that survives real usage.
 
-- ⚡ Fun fact **I love building everything from microcontrollers to cloud applications!**
+<a href="https://bilalsharif.work">
+  <img src="https://img.shields.io/badge/Portfolio-bilalsharif.work-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" />
+</a>
+<a href="mailto:bilalwork31@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bilalwork31%40gmail.com-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-d05549?style=for-the-badge&labelColor=1a1a1a&logo=linkedin" alt="LinkedIn" />
+</a>
 
-## 📝 Recent Projects & Blog Posts
-- **AI-Powered Chat Application with RAG**
-- **Freelance Sprint CRM with FastAPI and React** 
-- **ML based Flutter Mobile App for Smart Image Management**
-- **IoT Data Collection System using Embedded Programming**
-- **Build Scalable APIs with Django REST Framework**
+</div>
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-</p>
+---
 
-## 🛠️ Languages and Tools:
+## Positioning
 
-### Backend Development:
-<p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
+I am most useful when the work is too connected for one narrow role.
 
-### AI & Machine Learning:
-<p align="left">
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-</p>
+Most product problems do not stay neatly inside frontend, backend, AI, DevOps, or automation. I work across those edges and keep the implementation coherent.
 
-### Frontend & Mobile:
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
+- Production backends with **Django, DRF, FastAPI, PostgreSQL, Redis, Celery**
+- Real-time systems with **WebSockets, Django Channels, queues, and event-driven workflows**
+- AI features with **RAG, agents, OpenAI, Claude Vision, vector search, and automation**
+- Product interfaces with **React dashboards, admin tools, and operational workflows**
+- Infrastructure basics with **Docker, Linux, Nginx, AWS, caching, and deployment**
+- Debugging work around **performance, provider protocols, security boundaries, and reliability**
 
-### DevOps & Cloud:
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-</p>
+---
 
-### Embedded & IoT:
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-</p>
+## Selected Work
 
-### Tools & Others:
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+| Project | Focus |
+|---|---|
+| **AI chat and inbox systems** | WebSockets, RAG, LLM-assisted workflows, customer conversation tooling |
+| **Trading infrastructure** | Multi-tenant wallets, ledgers, liquidity, orders, market data, bots |
+| **Workflow automation platforms** | Retryable flows, API orchestration, operator state, recovery paths |
+| **WhatsApp commerce systems** | Shopify, OCR, fraud checks, Claude Vision review, isolated client flows |
+| **AI reporting agents** | Slack/team monitoring, decision extraction, EOD reports, risk signals |
+| **Document/search pipelines** | Python processing, OCR, HTML conversion, vector search, automation |
 
+---
+
+## Stack
+
+### Backend and Data
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis)
+![Celery](https://img.shields.io/badge/Celery-1a1a1a?style=flat-square)
+
+### AI and Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-1a1a1a?style=flat-square&logo=playwright)
+![Vector Search](https://img.shields.io/badge/Vector_Search-1a1a1a?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1a1a1a?style=flat-square)
+
+### Frontend and Product
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git)
+
+---
+
+## Current Focus
+
+- Building production-ready systems with **Django, FastAPI, PostgreSQL, Redis, and React**
+- Improving AI-assisted workflows with **agents, RAG, OCR, Playwright, and Claude/OpenAI integrations**
+- Learning deeper **AWS, system design, observability, and reliability engineering**
+- Open to **remote roles, local opportunities, freelance projects, and startup builds**
+
+---
+
+<div align="left">
+
+**Email:** bilalwork31@gmail.com  
+**Portfolio:** https://bilalsharif.work  
+**LinkedIn:** https://linkedin.com/in/yourprofile
+
+</div>
