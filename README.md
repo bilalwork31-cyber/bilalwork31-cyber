@@ -26,8 +26,6 @@
 <tr>
 <td width="65%" valign="top">
 
-<br/>
-
 ```
 Backend is where products either hold together — or fall apart.
 I work in that layer.
@@ -41,6 +39,11 @@ I build what takes the hit when the product goes live — the APIs, the workers,
 I stop at *clear logs, measurable behavior, and the next engineer won't hate me for this.*
 
 <br/>
+
+![](https://img.shields.io/badge/6+_Production_Systems-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![](https://img.shields.io/badge/AI_Pipelines_in_Prod-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![](https://img.shields.io/badge/Remote_Ready-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![](https://img.shields.io/badge/PKT_UTC+5-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
 
 </td>
 <td width="35%" valign="top">
