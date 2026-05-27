@@ -1,113 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=d05549&fontColor=ffffff&reversal=false&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=d05549&fontColor=ffffff&text=BILAL+SHARIF&fontSize=62&fontAlignY=44&fontAlign=50&desc=Backend+Engineer+%C2%B7+AI+Integration+%C2%B7+Production+Systems&descSize=17&descFontColor=ffffffcc&descAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2000&pause=1200&color=D05549&center=true&vCenter=true&width=900&lines=Bilal+Sharif;Backend+%E2%86%92+Systems+%E2%86%92+Production;I+build+what+survives+real+users." alt="Intro" />
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=d05549&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Full-Stack Engineer  ·  AI Integration  ·  Production Systems      │
-│  Django / FastAPI / React / WebSockets / Automation / Security      │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/◈_bilalsharif.work-d05549?style=for-the-badge&labelColor=0d0d0d&logoColor=white)](https://bilalsharif.work)
-[![Email](https://img.shields.io/badge/◈_bilalwork31@gmail.com-d05549?style=for-the-badge&labelColor=0d0d0d)](mailto:bilalwork31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-d05549?style=for-the-badge&labelColor=0d0d0d&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=d05549" width="80%" />
+[![Portfolio](https://img.shields.io/badge/⬡_bilalsharif.work-0d0d0d?style=for-the-badge&labelColor=d05549&logoColor=white)](https://bilalsharif.work)
+&nbsp;
+[![Email](https://img.shields.io/badge/⬡_bilalwork31@gmail.com-0d0d0d?style=for-the-badge&labelColor=d05549)](mailto:bilalwork31@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/⬡_LinkedIn-0d0d0d?style=for-the-badge&labelColor=d05549&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
+
+---
 
 <br/>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-## Who am I building for?
+<br/>
 
-I'm the engineer you call when the codebase is **holding the product hostage** — too slow, too fragile, too hard to extend.
-
-I work in the parts that get painful after launch: APIs under load, async workers that silently fail, WebSocket connections that drop, AI pipelines that hallucinate at the wrong moment, permissions that nearly leaked, and admin tools nobody else wanted to touch.
-
-> *I don't just write code. I design systems that can fail gracefully, recover automatically, and tell you when something is wrong before the user does.*
-
-I care about software that is:
-
-```python
-{
-  "operable":   "clear logs, metrics, and failure signals",
-  "extensible": "easy to add without breaking what works",
-  "honest":     "does exactly what it says on the API contract",
-  "fast":       "invisible — because slow is a feature too"
-}
+```
+Backend is where products either hold together — or fall apart.
+I work in that layer.
 ```
 
-</td>
-<td width="40%" valign="top">
+Not tutorials. Not side projects. Real systems with concurrent users, financial logic, live WebSockets, AI pipelines, and the kind of bugs that only show up at 2am in production.
 
-## Operating Mode
+I build what takes the hit when the product goes live — the APIs, the workers, the queues, the async flows, the permissions nobody thought about, the admin tools nobody wanted to write, and the debugging work that connects all of it.
+
+**I don't stop at "it works."**
+I stop at *clear logs, measurable behavior, and the next engineer won't hate me for this.*
+
+<br/>
+
+</td>
+<td width="35%" valign="top">
 
 ```yaml
-# bilal.config.yaml
+# status.yaml
 
-engineer:
-  type: backend-heavy full-stack
-  base: Lahore, Pakistan 🇵🇰
-  timezone: PKT (UTC+5)
-  
-currently_deep_in:
-  - production Django + FastAPI systems
-  - AI agent pipelines & RAG architectures
-  - real-time WebSocket infrastructure
-  - security-aware backend design
-  - reverse engineering & protocol work
+name:     Bilal Sharif
+base:     Lahore, Pakistan 🇵🇰
+zone:     UTC+5
 
-open_for:
-  - remote full-time roles
-  - startup builds (0→1 or 1→scale)
-  - freelance automation & AI
-  - long-term technical partnerships
+role:     Backend-heavy full-stack
+          engineer
 
-response_time: < 24h
-preferred_contact: email | LinkedIn
+focus:
+  ▸ Django · FastAPI · DRF
+  ▸ AI workflows & RAG systems
+  ▸ Real-time WebSocket infra
+  ▸ Reverse engineering
+  ▸ Security-aware backends
+  ▸ Production debugging
+
+open_to:
+  ✓ Remote full-time roles
+  ✓ Startup builds (0→1)
+  ✓ Freelance automation & AI
+  ✓ Long-term partnerships
+
+status: Available
 ```
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
 <div align="center">
 
-### `What I actually do`
+<br/>
+
+![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-d05549?style=flat-square&labelColor=d05549)
+
+### What I Actually Do
+
+![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-d05549?style=flat-square&labelColor=d05549)
 
 <br/>
 
-| | Domain | What it means in practice |
-|:---:|:---|:---|
-| `01` | **Backend Architecture** | APIs that hold up, data models that don't lie, queues that don't silently die |
-| `02` | **AI & Automation** | RAG, agents, OCR, Vision APIs — wired into real workflows, not demo scripts |
-| `03` | **Real-Time Systems** | WebSocket infra, event-driven workers, live dashboards, async pipelines |
-| `04` | **Security & Debugging** | Reverse engineering, protocol recovery, penetration testing, production firefighting |
+<table>
+  <tr>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/BACKEND-d05549?style=for-the-badge" /><br/><br/>
+      <b>APIs · Data Models · Queues</b><br/>
+      <sub>Systems built to carry weight,<br/>not just pass tests.</sub>
+    </td>
+    <td align="center" width="5%">│</td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/AI_&_RAG-d05549?style=for-the-badge" /><br/><br/>
+      <b>Agents · Vision · Embeddings</b><br/>
+      <sub>AI wired into real workflows,<br/>not proof-of-concept demos.</sub>
+    </td>
+    <td align="center" width="5%">│</td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/REAL_TIME-d05549?style=for-the-badge" /><br/><br/>
+      <b>WebSockets · Workers · Events</b><br/>
+      <sub>Concurrent sessions, async pipelines,<br/>live systems that don't drop.</sub>
+    </td>
+    <td align="center" width="5%">│</td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/SECURITY-d05549?style=for-the-badge" /><br/><br/>
+      <b>Reverse Eng · Pen Testing</b><br/>
+      <sub>Protocol recovery, security-aware<br/>design, production firefighting.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-## `Selected Systems`
+<div align="center">
 
-> These aren't demos. Each one runs for real users with real consequences.
+## Selected Systems
+
+<sub>These run for real users. Each description includes the thing that actually made it hard.</sub>
+
+</div>
 
 <br/>
 
@@ -115,72 +140,113 @@ preferred_contact: email | LinkedIn
 <tr>
 <td width="50%" valign="top">
 
-### ◈ ChatsX — Inbox Infrastructure
+### `▸` ChatsX — Inbox Infrastructure
 
-Customer support inbox built on WebSocket-first architecture. Meta channel integration, LLM-assisted reply drafting, RAG over historical conversations, real-time operator dashboards, and deep debugging across async layers.
+WebSocket-first customer inbox. Meta channel integration, LLM-assisted reply drafting, RAG over conversation history, real-time operator dashboards, and deep multi-layer debugging.
 
-**The hard part:** keeping hundreds of concurrent sessions consistent while LLM responses stream asynchronously into the right conversations.
+```diff
++ The hard part: streaming LLM responses
+  into the right concurrent session,
+  across async layers, without collision.
+```
 
-`Django Channels` · `Redis` · `React` · `OpenAI` · `WebSockets`
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ TradeX — Multi-Tenant Trading Core
-
-Full trading lifecycle: wallets, ledgers, order matching, liquidity logic, live market data, and bot-driven operations — all isolated per tenant with hard permission boundaries.
-
-**The hard part:** financial precision under concurrent load. No double-spends. No silent ledger drift.
-
-`Django REST` · `PostgreSQL` · `Redis` · `Celery Workers`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ DroidFlow — Automation Engine
-
-Retryable, stateful task flows with full crash recovery. Playwright-driven browser automation, API orchestration, background jobs, and operator control panels for observing and re-triggering anything.
-
-**The hard part:** automation that resumes correctly after unexpected failure — not just retries, but resumes.
-
-`FastAPI` · `Playwright` · `Python` · `Task Queues`
+![Django](https://img.shields.io/badge/Django_Channels-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Erixa — WhatsApp Commerce
+### `▸` TradeX — Multi-Tenant Trading Core
 
-Shopify-connected order processing over WhatsApp. Screenshot validation via Claude Vision, OCR for document parsing, multi-client isolation, and custom business logic per merchant.
+Full trading lifecycle: wallets, ledgers, order matching, liquidity logic, live market data, bot operations — all tenant-isolated with hard permission boundaries.
 
-**The hard part:** AI validation that's accurate enough to trust in payment-adjacent workflows.
+```diff
++ The hard part: financial precision under
+  concurrent load. No double-spends.
+  No silent ledger drift. Ever.
+```
 
-`Claude Vision` · `OCR` · `WhatsApp Business API` · `FastAPI`
+![DRF](https://img.shields.io/badge/Django_REST-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Celery](https://img.shields.io/badge/Celery-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ LadybugWorth — AI Reporting Agent
+### `▸` DroidFlow — Automation Engine
 
-Agents that continuously watch Slack channels, extract decisions and blockers from conversation, summarize daily activity, generate structured EOD reports, and surface risk signals before they become incidents.
+Stateful, retryable task flows with crash recovery. Playwright browser automation, API orchestration, background jobs, and operator panels for observing and re-triggering anything.
 
-**The hard part:** signal vs noise. Only flag what actually matters.
+```diff
++ The hard part: automation that resumes
+  correctly after unexpected failure —
+  not retries. Actual state resumption.
+```
 
-`OpenAI` · `Slack APIs` · `Python Workers` · `Summarization`
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Playwright](https://img.shields.io/badge/Playwright-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Queues](https://img.shields.io/badge/Task_Queues-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Document & Search Pipelines
+### `▸` Erixa — WhatsApp Commerce
 
-Python-native document processing: OCR, DOCX/HTML parsing and conversion, structured extraction, asset cataloging, and vector-based semantic search over large document collections.
+Shopify-connected order processing over WhatsApp. Claude Vision for screenshot validation, OCR for document parsing, per-merchant business logic isolation.
 
-**The hard part:** retrieval quality. Making RAG actually return the right thing.
+```diff
++ The hard part: AI validation accurate
+  enough to trust adjacent to payment
+  decisions — not just demo-accurate.
+```
 
-`Python` · `OCR` · `Vector Search` · `Embeddings`
+![Claude](https://img.shields.io/badge/Claude_Vision-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![OCR](https://img.shields.io/badge/OCR-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `▸` LadybugWorth — AI Reporting Agent
+
+Agents that watch Slack channels continuously, extract decisions from conversation, summarize daily activity, generate structured EOD reports, surface risk signals.
+
+```diff
++ The hard part: signal vs noise.
+  Flag what actually matters.
+  Ignore everything else.
+```
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Slack](https://img.shields.io/badge/Slack_API-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Workers](https://img.shields.io/badge/Python_Workers-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+
+</td>
+<td width="50%" valign="top">
+
+### `▸` Document & Search Pipelines
+
+Python-native document processing — OCR, DOCX/HTML parsing, structured extraction, asset cataloging, and vector-based semantic search over large document collections.
+
+```diff
++ The hard part: retrieval quality.
+  Making RAG actually surface the right
+  thing, not just something similar.
+```
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![OCR](https://img.shields.io/badge/OCR-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Vector](https://img.shields.io/badge/Vector_Search-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
+![Embeddings](https://img.shields.io/badge/Embeddings-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d05549)
 
 </td>
 </tr>
@@ -188,124 +254,53 @@ Python-native document processing: OCR, DOCX/HTML parsing and conversion, struct
 
 ---
 
-## `Toolbox`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nextjs,react,js,ts,postgres,redis,mongodb,docker,linux,aws,nginx,git,flutter,dart&theme=dark" />
+## Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nextjs,react,js,ts,postgres,redis,mongodb,docker,linux,aws,nginx,git,flutter,dart&theme=dark&perline=10" />
 
 <br/><br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  AI / ML          OpenAI · Anthropic Claude · RAG · Embeddings · Agents      │
-│  Automation       Playwright · Celery · Background Jobs · Task Queues        │
-│  Real-Time        WebSockets · Django Channels · Event Streams · Workers     │
-│  Security         Reverse Engineering · Protocol Debugging · Pen Testing      │
-│  Infra            Docker · AWS · Nginx · Linux · CI/CD · Observability       │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `Stack by Layer`
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-### Backend
+**Backend**
 ```
-Python · Django · DRF · FastAPI
-Node.js · Express · REST APIs
-PostgreSQL · Redis · MongoDB
-Celery · Task Queues · Cron Jobs
-WebSockets · Django Channels
-```
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend & Mobile
-```
-React · Next.js · TypeScript
-JavaScript · HTML · CSS
-Admin Dashboards · Operator UIs
-Flutter · Dart · Mobile Apps
-Data tables · Live feeds
+Python   Django   DRF   FastAPI
+Node.js  Express  REST APIs
+PostgreSQL   Redis   MongoDB
+Celery   Queues   Workers
 ```
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-### Security & Systems
+**Frontend & Mobile**
 ```
-Reverse Engineering
+React   Next.js   TypeScript
+JavaScript   HTML   CSS
+Flutter   Dart
+Admin Tools   Live Dashboards
+```
+
+</td>
+<td align="center" width="33%">
+
+**Systems & Security**
+```
+Reverse Engineering   Pen Testing
 Protocol Recovery & Debugging
-Penetration Testing Basics
-Linux · Docker · Nginx · AWS
-Performance · Observability
+Docker   Linux   Nginx   AWS
+Performance   Observability
 ```
 
 </td>
 </tr>
 </table>
-
----
-
-## `Currently Deepening`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```bash
-$ cat current_work.log
-
-[ACTIVE]  Django + FastAPI production systems
-[ACTIVE]  AI features that pull real weight in products
-[ACTIVE]  WebSocket infra, reliability, and observability
-[ACTIVE]  Automation pipelines with state recovery
-[ACTIVE]  Reverse engineering + protocol debugging
-[ACTIVE]  AWS, caching, and performance engineering
-[ACTIVE]  Security-informed backend design
-```
-
-</td>
-<td width="50%" valign="top">
-
-```bash
-$ cat good_fit.log
-
-[YES]  Backend-heavy full-stack roles
-[YES]  Remote-first engineering teams
-[YES]  Startup builds — 0→1 or 1→scale
-[YES]  Freelance automation & AI integration
-[YES]  React/Next.js dashboards, Flutter apps
-[YES]  Production recovery & debugging work
-[YES]  Security-aware system design
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `GitHub Activity`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=transparent&hide_border=true&title_color=d05549&icon_color=d05549&text_color=9CA3AF&bg_color=0d0d0d" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=transparent&hide_border=true&title_color=d05549&text_color=9CA3AF&bg_color=0d0d0d" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=minimal&bg_color=0d0d0d&color=9CA3AF&line=d05549&point=d05549&hide_border=true" width="90%" />
 
 </div>
 
@@ -313,16 +308,79 @@ $ cat good_fit.log
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=900&height=60&lines=If+the+system+is+complex%2C+connected%2C+or+hard+to+debug+%E2%80%94+that+is+usually+where+I+am+useful.;Backend+judgment.+AI+integration.+Automation.+Production+focus." alt="Closing" />
+## GitHub Stats
 
 <br/>
 
-```
-bilalwork31@gmail.com  ·  bilalsharif.work
-```
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dark&hide_border=true&background=0D0D0D&ring=d05549&fire=d05549&currStreakLabel=d05549&sideLabels=9CA3AF&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" height="170" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=d05549&section=footer&reversal=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d05549&icon_color=d05549&text_color=9CA3AF&rank_icon=github" height="160" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d05549&text_color=9CA3AF" height="160" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
+
+</div>
+
+---
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Right now I'm deepening
+
+```bash
+▸ Django + FastAPI production architecture
+▸ AI features that do real work in products
+▸ WebSocket infra, reliability, observability
+▸ Automation with true state recovery
+▸ Reverse engineering & protocol debugging  
+▸ AWS, caching, performance engineering
+▸ Security-informed system design
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Good fit if you need
+
+```bash
+▸ Backend-heavy full-stack engineering
+▸ Startup builds — 0→1 or 1→scale
+▸ Freelance automation & AI integration  
+▸ Remote-first engineering teams
+▸ React/Next.js dashboards, Flutter apps
+▸ Production debugging & recovery work
+▸ Security-aware backend architecture
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=d05549&center=true&vCenter=true&width=900&lines=If+it's+complex%2C+connected%2C+async%2C+or+hard+to+debug+%E2%80%94+that's+my+zone.;Backend+judgment.+AI+integration.+Production+focus." />
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/bilalwork31@gmail.com-d05549?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:bilalwork31@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/bilalsharif.work-d05549?style=for-the-badge&labelColor=0d0d0d)](https://bilalsharif.work)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=d05549&section=footer&reversal=false" width="100%" />
 
 </div>
