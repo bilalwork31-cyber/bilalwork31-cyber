@@ -260,7 +260,7 @@ Python-native document processing — OCR, DOCX/HTML parsing, structured extract
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nextjs,react,js,ts,postgres,redis,mongodb,docker,linux,aws,nginx,git,flutter,dart&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nextjs,react,js,ts,postgres,redis,mongodb,docker,linux,aws,nginx,git,flutter,dart,graphql&theme=dark&perline=10" />
 
 <br/><br/>
 
@@ -306,33 +306,11 @@ Performance   Observability
 
 ---
 
-<div align="center">
-
-## GitHub Stats
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dark&hide_border=true&background=0D0D0D&ring=d05549&fire=d05549&currStreakLabel=d05549&sideLabels=9CA3AF&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d05549&icon_color=d05549&text_color=9CA3AF&rank_icon=github" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d05549&text_color=9CA3AF" height="160" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
-
-</div>
-
----
-
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### Right now I'm deepening
 
@@ -347,7 +325,7 @@ Performance   Observability
 ```
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### Good fit if you need
 
