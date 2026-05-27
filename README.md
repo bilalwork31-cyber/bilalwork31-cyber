@@ -53,7 +53,9 @@ focus:
   - AI integrations
   - automation
   - real-time products
-  - production debugging
+  - reverse engineering
+  - security-aware debugging
+  - production recovery
 open_to:
   - remote roles
   - local opportunities
@@ -87,9 +89,9 @@ RAG, agents, OCR, vision
 WebSockets, workers, events
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/04-PRODUCT-d05549?style=flat-square&labelColor=1a1a1a" alt="Product" />
+<img src="https://img.shields.io/badge/04-SECURITY-d05549?style=flat-square&labelColor=1a1a1a" alt="Security" />
 <br />
-Dashboards, tools, flows
+Reverse engineering, testing
 </td>
 </tr>
 </table>
@@ -169,7 +171,7 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,js,docker,linux,aws,nginx,git" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nextjs,react,js,ts,postgres,redis,mongodb,docker,linux,aws,nginx,git,flutter,dart" alt="Tech stack" />
 
 <br />
 <br />
@@ -180,8 +182,51 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 ![Celery](https://img.shields.io/badge/Celery-111111?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-111111?style=for-the-badge)
+![Protocol Debugging](https://img.shields.io/badge/Protocol_Debugging-111111?style=for-the-badge)
 
 </div>
+
+---
+
+## `stack map`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `backend`
+
+`Python` `Django` `DRF` `FastAPI`  
+`Node.js` `Express` `REST APIs`  
+`PostgreSQL` `Redis` `MongoDB`  
+`Celery` `queues` `background jobs`
+
+</td>
+<td width="33%" valign="top">
+
+### `frontend / mobile`
+
+`React` `Next.js` `JavaScript`  
+`TypeScript` `HTML` `CSS`  
+`Flutter` `Dart`  
+`dashboards` `admin tools`
+
+</td>
+<td width="33%" valign="top">
+
+### `security / systems`
+
+`reverse engineering` `protocol recovery`  
+`cybersecurity` `penetration testing`  
+`Linux` `Docker` `Nginx`  
+`AWS` `performance` `debugging`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,8 +237,10 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 ## `now building`
 
 - production architecture with Django, FastAPI, PostgreSQL, Redis, and Celery
+- Node.js, React, Next.js, and Flutter work where the product needs it
 - practical AI features that do useful work without making the product fragile
 - WebSocket systems, automation flows, worker pipelines, and reliability work
+- reverse engineering, cybersecurity, penetration testing basics, and protocol debugging
 - AWS, system design, observability, caching, and performance
 
 </td>
@@ -205,6 +252,8 @@ Python-native document processing, OCR, DOCX/HTML conversion, asset search, and 
 - remote engineering teams
 - startup product builds
 - freelance automation and AI integrations
+- React/Next.js dashboards and Flutter mobile apps
+- security-aware backend work and penetration-testing informed debugging
 - production recovery, debugging, and performance work
 
 </td>
