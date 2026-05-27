@@ -1,106 +1,74 @@
-<div align="left">
-
 # Bilal Sharif
 
-### Full-Stack Engineering for Reliable Products and Systems
+### Full-stack engineer working across backend systems, AI workflows, automation, and real product constraints.
 
-**Backend, AI, automation, real-time systems, and production-focused product work.**
+I build the parts of software that usually become painful when a product starts getting real users: backend architecture, API design, background jobs, WebSocket flows, admin dashboards, AI integrations, provider APIs, document pipelines, deployment details, and the debugging work between all of them.
 
-I build software for teams that need clean APIs, reliable backend architecture, AI-assisted workflows, real-time features, admin dashboards, and automation that survives real usage.
+Most of my work sits around **Python, Django, FastAPI, PostgreSQL, Redis, React, Celery, WebSockets, Docker, Playwright, OpenAI, and Claude Vision**.
 
-<a href="https://bilalsharif.work">
-  <img src="https://img.shields.io/badge/Portfolio-bilalsharif.work-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" />
-</a>
-<a href="mailto:bilalwork31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bilalwork31%40gmail.com-d05549?style=for-the-badge&labelColor=1a1a1a" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-d05549?style=for-the-badge&labelColor=1a1a1a&logo=linkedin" alt="LinkedIn" />
-</a>
+I care about shipping software that is understandable, measurable, and easier to operate after the work is done.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-bilalsharif.work-d05549?style=flat-square&labelColor=1a1a1a)](https://bilalsharif.work)
+[![Email](https://img.shields.io/badge/Email-bilalwork31%40gmail.com-d05549?style=flat-square&labelColor=1a1a1a)](mailto:bilalwork31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d05549?style=flat-square&labelColor=1a1a1a&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
 
-## Positioning
+### The kind of work I am good at
 
-I am most useful when the work is too connected for one narrow role.
-
-Most product problems do not stay neatly inside frontend, backend, AI, DevOps, or automation. I work across those edges and keep the implementation coherent.
-
-- Production backends with **Django, DRF, FastAPI, PostgreSQL, Redis, Celery**
-- Real-time systems with **WebSockets, Django Channels, queues, and event-driven workflows**
-- AI features with **RAG, agents, OpenAI, Claude Vision, vector search, and automation**
-- Product interfaces with **React dashboards, admin tools, and operational workflows**
-- Infrastructure basics with **Docker, Linux, Nginx, AWS, caching, and deployment**
-- Debugging work around **performance, provider protocols, security boundaries, and reliability**
+- Turning unclear product requirements into working backend systems
+- Designing APIs, data models, queues, permissions, and service boundaries
+- Building Django/DRF and FastAPI systems that can survive real operational use
+- Debugging performance problems in queries, workers, WebSockets, and integrations
+- Adding AI where it is actually useful: RAG, agents, OCR, vision review, workflow automation
+- Building internal tools and React dashboards for operators, admins, and teams
+- Recovering from fragile third-party APIs, undocumented protocols, and broken provider flows
 
 ---
 
-## Selected Work
+### A few things I have built or worked on
 
-| Project | Focus |
-|---|---|
-| **AI chat and inbox systems** | WebSockets, RAG, LLM-assisted workflows, customer conversation tooling |
-| **Trading infrastructure** | Multi-tenant wallets, ledgers, liquidity, orders, market data, bots |
-| **Workflow automation platforms** | Retryable flows, API orchestration, operator state, recovery paths |
-| **WhatsApp commerce systems** | Shopify, OCR, fraud checks, Claude Vision review, isolated client flows |
-| **AI reporting agents** | Slack/team monitoring, decision extraction, EOD reports, risk signals |
-| **Document/search pipelines** | Python processing, OCR, HTML conversion, vector search, automation |
+**Real-time chat and inbox systems**  
+WebSocket-heavy workloads, customer inbox flows, Meta channel integration, LLM-assisted replies, RAG, and operator-facing dashboards.
 
----
+**Trading and wallet infrastructure**  
+Multi-tenant trading flows with wallets, ledgers, order handling, liquidity logic, market data, and bot-driven operations.
 
-## Stack
+**Automation platforms**  
+Retryable task flows, API orchestration, state recovery, Playwright automation, queue workers, and tools for reducing manual QA or support work.
 
-### Backend and Data
+**WhatsApp commerce and verification systems**  
+Shopify-connected order flows, OCR, screenshot checks, Claude Vision review, 360dialog/WhatsApp APIs, and isolated per-client workflows.
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis)
-![Celery](https://img.shields.io/badge/Celery-1a1a1a?style=flat-square)
+**AI reporting agents**  
+Agents that watch communication channels, extract decisions, summarize activity, create EOD reports, and flag risk signals.
 
-### AI and Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-1a1a1a?style=flat-square&logo=playwright)
-![Vector Search](https://img.shields.io/badge/Vector_Search-1a1a1a?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1a1a1a?style=flat-square)
-
-### Frontend and Product
-
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git)
+**Document and search pipelines**  
+Python-native document processing, OCR, DOCX/HTML conversion, asset search, and vector-based retrieval.
 
 ---
 
-## Current Focus
+### Stack I reach for often
 
-- Building production-ready systems with **Django, FastAPI, PostgreSQL, Redis, and React**
-- Improving AI-assisted workflows with **agents, RAG, OCR, Playwright, and Claude/OpenAI integrations**
-- Learning deeper **AWS, system design, observability, and reliability engineering**
-- Open to **remote roles, local opportunities, freelance projects, and startup builds**
+**Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery  
+**Realtime:** WebSockets, Django Channels, Daphne/Uvicorn, queues, async workers  
+**Frontend:** React, JavaScript, HTML, CSS, operational dashboards  
+**AI:** OpenAI, Claude Vision, RAG, vector search, agents, OCR workflows  
+**Automation:** Playwright, scripts, API orchestration, background workers  
+**Infra:** Docker, Linux, Nginx, AWS basics, Vercel, deployment and caching  
 
 ---
 
-<div align="left">
+### Current focus
 
-**Email:** bilalwork31@gmail.com  
-**Portfolio:** https://bilalsharif.work  
-**LinkedIn:** https://linkedin.com/in/yourprofile
+- Better production architecture with Django, FastAPI, PostgreSQL, Redis, and Celery
+- Practical AI features that help teams move faster without making the product fragile
+- System design, AWS, reliability, observability, and performance work
+- Remote roles, local opportunities, freelance builds, and startup product work
 
-</div>
+---
+
+If you are building something that needs backend judgment, AI integration, automation, or someone who can move across the stack without losing the product thread, reach me here:
+
+**bilalwork31@gmail.com**  
+**https://bilalsharif.work**
