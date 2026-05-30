@@ -6,7 +6,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=d05549&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
